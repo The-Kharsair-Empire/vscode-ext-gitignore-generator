@@ -1,0 +1,17 @@
+{
+    "url": "https://www.toptal.com/developers/gitignore/api/",
+    "projectType": {
+        "Unity": {
+            "url_suffix": "unity"
+        },
+        "Nodejs": {
+            "url_suffix": "node"
+        },
+        "Python": {
+            "url_suffix": "python"
+        },
+        "AngularJS": {
+            "url_suffix": "angular"
+        }
+    }
+}
